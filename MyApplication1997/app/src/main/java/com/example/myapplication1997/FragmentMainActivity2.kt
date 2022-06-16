@@ -13,7 +13,7 @@ class FragmentMainActivity2 : AppCompatActivity() {
     fun loadfragment(fragment: Fragment){
         val transaction =supportFragmentManager.beginTransaction()
         transaction.replace(R.id.frgmentView, fragment)
-        transaction.addToBackStack("abc")
+        transaction.addToBackStack(null)
         transaction.commit()
 
     }
