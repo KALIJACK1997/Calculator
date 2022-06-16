@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application 1997</string>
+    <string name="cutomerid">CutomerId :</string>
+    <string name="customerId">CustomerId</string>
+    <string name="customername">CustomerName :</string>
+    <string name="customerName">customerName</string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragmentclass" type="id">frag</item>
+    <item name="frgmentView" type="id">fragment</item>
+</resources>
